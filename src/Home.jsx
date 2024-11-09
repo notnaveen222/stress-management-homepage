@@ -98,7 +98,7 @@ const Home = () => {
           initial={mainImageInitial.initial}
           animate={fadeUpAnimation.animate}
           transition={transtionWithoutDelay}
-          className=" h-[400px] relative top-14 sm:top-0 w-auto sm:h-[700px] lg:h-[760px]"
+          className=" h-[400px] relative top-14 sm:top-8 w-auto sm:h-[700px] lg:h-[760px]"
           src={mainImage}
           alt=""
         />
