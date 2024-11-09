@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Crake";
+  src: url("./assets/Crake/craketest-semibold.otf");
+}
+
+@font-face {
+  font-family: "Victoria";
+  src: url("./assets/Victoria/vitoria.otf");
+}
+
+.crake {
+  font-family: "Crake";
+}
+.victoria {
+  font-family: "Victoria";
+}
